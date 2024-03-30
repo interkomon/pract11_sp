@@ -1,0 +1,4 @@
+﻿  pract11.cpp
+C:\Users\Andrey\Desktop\pract11\pract11\pract11.cpp(263,25): warning C4838: Преобразование из "TCHAR" в "char" требует сужающего преобразования.
+C:\Users\Andrey\Desktop\pract11\pract11\pract11.cpp(263,25): warning C4244: инициализация: преобразование "TCHAR" в "char", возможна потеря данных
+  pract11.vcxproj -> C:\Users\Andrey\Desktop\pract11\x64\Debug\pract11.exe
